@@ -1,0 +1,35 @@
+.card-primary {
+    background-color: #0275d8;
+    border-color: #0275d8;
+}
+
+.card-block {
+    -webkit-box-flex: 1;
+    -webkit-flex: 1 1 auto;
+        -ms-flex: 1 1 auto;
+            flex: 1 1 auto;
+    padding: 1.25rem;
+  }
+
+.card-success {
+    background-color: #5cb85c;
+    border-color: #5cb85c;
+  }
+  .card-warning {
+    background-color: #f0ad4e;
+    border-color: #f0ad4e;
+  }
+  .navbar-toggler-right {
+    position: absolute;
+    right: 1rem;
+  }
+
+  .bg-inverse {
+    background-color: #292b2c !important;
+  }
+  .fa .fa-bar{
+      background-color: chartreuse;
+  }
+//   .navbar-inverse {
+//   color: white;
+// }
